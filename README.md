@@ -1,2 +1,0 @@
-# GithubPracticeSession
-GithubPracticeSession
